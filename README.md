@@ -1,7 +1,6 @@
 <h1 align="center">Salut 👋, je m'appellesuis Guillaume</h1>
 <h3 align="center">Un développeur passionné par le back-end</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guillaumefauvel" alt="guillaumefauvel" /></a> </p>
 
 - 🔭 Je travaille actuellement **sur un projet React/Django**
 
