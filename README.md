@@ -2,7 +2,6 @@
 <h3 align="center">Un développeur passionné par le back-end</h3>
 <div align="center">
 - 🔭 Je travaille actuellement **sur un projet React/Django**
-
 - 🌱 J'apprend en ce moment le Framework **ReactJS**
 
 
