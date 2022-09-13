@@ -18,7 +18,9 @@
 |   |   |   |   |   | | |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillaumefauvel&show_icons=true&locale=en&layout=compact" alt="guillaumefauvel" /></p>
+<!---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guillaumefauvel&show_icons=true&locale=en" alt="guillaumefauvel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guillaumefauvel&" alt="guillaumefauvel" /></p>
+-->
