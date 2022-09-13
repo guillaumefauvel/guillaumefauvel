@@ -1,6 +1,6 @@
 <h1 align="center">Salut 👋, je m'appelle Guillaume</h1>
 <h3 align="center">Un développeur passionné par le back-end</h3>
-
+<div align="center">
 - 🔭 Je travaille actuellement **sur un projet React/Django**
 
 - 🌱 J'apprend en ce moment le Framework **ReactJS**
@@ -18,6 +18,9 @@
 |   |   |   |   |   | | |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillaumefauvel&show_icons=true&locale=en&layout=compact" alt="guillaumefauvel" /></p>
+
+</div>
+
 <!---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guillaumefauvel&show_icons=true&locale=en" alt="guillaumefauvel" /></p>
