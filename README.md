@@ -5,7 +5,7 @@
 
   🔭 Je travaille actuellement **sur un projet React/Django**
 
-  🌱 J'apprend en ce moment le Framework **ReactJS**
+  🌱 J'apprend en ce moment **ReactJS**
 
 <br>
 
