@@ -1,11 +1,8 @@
-<h1 align="center">Salut 👋, je m'appelle Guillaume</h1>
 <h3 align="center">Développeur passionné par le back-end</h3>
 <div align="center">
 <br>
 
   🔭 Je travaille actuellement **sur un projet React/Django**
-
-  🌱 J'apprend en ce moment **ReactJS**
 
 <br>
 
