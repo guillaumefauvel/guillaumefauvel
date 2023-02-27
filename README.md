@@ -1,9 +1,3 @@
-<h3 align="center">Développeur passionné par le back-end</h3>
-<div align="center">
-<br>
-
-  🔭 Je travaille actuellement **sur un projet React/Django**
-
 <br>
 
 <h2>Stack technique</2>
